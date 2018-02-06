@@ -1,0 +1,15 @@
+..\Obj\cmd_xmodem.o: ..\vshell\src\command\cmd_xmodem.c
+..\Obj\cmd_xmodem.o: ..\vshell\src\command\cmd_xmodem.h
+..\Obj\cmd_xmodem.o: ..\vshell\src\vshell.h
+..\Obj\cmd_xmodem.o: ..\vshell\interger.h
+..\Obj\cmd_xmodem.o: ..\vshell\src\shell_config.h
+..\Obj\cmd_xmodem.o: ..\vshell\src\command\cmd_boot.h
+..\Obj\cmd_xmodem.o: ..\Xmodem\src\Xmodem.h
+..\Obj\cmd_xmodem.o: ..\vshell\src\command\cmd_help.h
+..\Obj\cmd_xmodem.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\cmd_xmodem.o: F:\Keil4\ARM\RV31\INC\string.h
+..\Obj\cmd_xmodem.o: ..\IAP\iap.h
+..\Obj\cmd_xmodem.o: ..\MDK\config.h
+..\Obj\cmd_xmodem.o: ..\System\stm32f10x.h
+..\Obj\cmd_xmodem.o: ..\System\core_cm3.h
+..\Obj\cmd_xmodem.o: F:\Keil4\ARM\RV31\INC\stdint.h

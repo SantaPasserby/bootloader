@@ -1,0 +1,9 @@
+..\Obj\xmodem_io.o: ..\Xmodem\bsp\Xmodem_io.c
+..\Obj\xmodem_io.o: ..\Xmodem\bsp\Xmodem_io.h
+..\Obj\xmodem_io.o: ..\Driver\bsp_usart1.h
+..\Obj\xmodem_io.o: ..\System\system_stm32f10x.h
+..\Obj\xmodem_io.o: ..\System\stm32f10x.h
+..\Obj\xmodem_io.o: ..\System\core_cm3.h
+..\Obj\xmodem_io.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\xmodem_io.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\xmodem_io.o: ..\Xmodem\bsp\Xmodem_bsp.h

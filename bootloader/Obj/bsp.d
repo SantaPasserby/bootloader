@@ -1,0 +1,11 @@
+..\Obj\bsp.o: ..\vshell\bsp\bsp.c
+..\Obj\bsp.o: ..\vshell\bsp\bsp.h
+..\Obj\bsp.o: ..\vshell\interger.h
+..\Obj\bsp.o: ..\vshell\src\shell_config.h
+..\Obj\bsp.o: ..\Driver\bsp_systick.h
+..\Obj\bsp.o: ..\System\system_stm32f10x.h
+..\Obj\bsp.o: ..\System\stm32f10x.h
+..\Obj\bsp.o: ..\System\core_cm3.h
+..\Obj\bsp.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\bsp.o: ..\vshell\src\vshell.h
+..\Obj\bsp.o: ..\vshell\src\shell_config.h

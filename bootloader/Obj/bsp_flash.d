@@ -1,0 +1,10 @@
+..\Obj\bsp_flash.o: ..\Driver\bsp_flash.c
+..\Obj\bsp_flash.o: ..\Driver\bsp_flash.h
+..\Obj\bsp_flash.o: ..\System\system_stm32f10x.h
+..\Obj\bsp_flash.o: ..\System\stm32f10x.h
+..\Obj\bsp_flash.o: ..\System\core_cm3.h
+..\Obj\bsp_flash.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\bsp_flash.o: ..\Driver\bsp_systick.h
+..\Obj\bsp_flash.o: ..\Driver\bsp_usart1.h
+..\Obj\bsp_flash.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\bsp_flash.o: F:\Keil4\ARM\RV31\INC\string.h

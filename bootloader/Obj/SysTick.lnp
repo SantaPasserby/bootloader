@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\system_stm32f10x.o" "..\obj\main.o" "..\obj\bsp_flash.o" "..\obj\bsp_systick.o" "..\obj\bsp_usart1.o" "..\obj\iap.o" "..\obj\xmodem.o" "..\obj\xmodem_io.o" "..\obj\xmodem_bsp.o" "..\obj\vshell.o" "..\obj\vshell_io.o" "..\obj\bsp.o" "..\obj\vshell_list.o" "..\obj\cmd_help.o" "..\obj\cmd_version.o" "..\obj\cmd_xmodem.o" "..\obj\cmd_boot.o" --strict --scatter "..\Obj\SysTick.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\SysTick.map" -o "..\Obj\SysTick.axf"

@@ -1,0 +1,14 @@
+..\Obj\cmd_boot.o: ..\vshell\src\command\cmd_boot.c
+..\Obj\cmd_boot.o: ..\vshell\src\command\cmd_boot.h
+..\Obj\cmd_boot.o: ..\vshell\src\vshell.h
+..\Obj\cmd_boot.o: ..\vshell\interger.h
+..\Obj\cmd_boot.o: ..\vshell\src\shell_config.h
+..\Obj\cmd_boot.o: ..\IAP\iap.h
+..\Obj\cmd_boot.o: ..\MDK\config.h
+..\Obj\cmd_boot.o: ..\System\stm32f10x.h
+..\Obj\cmd_boot.o: ..\System\core_cm3.h
+..\Obj\cmd_boot.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\cmd_boot.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\cmd_boot.o: F:\Keil4\ARM\RV31\INC\string.h
+..\Obj\cmd_boot.o: F:\Keil4\ARM\RV31\INC\stdlib.h
+..\Obj\cmd_boot.o: F:\Keil4\ARM\RV31\INC\math.h

@@ -1,0 +1,15 @@
+..\Obj\vshell.o: ..\vshell\src\vshell.c
+..\Obj\vshell.o: ..\System\stm32f10x.h
+..\Obj\vshell.o: ..\System\core_cm3.h
+..\Obj\vshell.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\vshell.o: ..\vshell\src\vshell.h
+..\Obj\vshell.o: ..\vshell\interger.h
+..\Obj\vshell.o: ..\vshell\src\shell_config.h
+..\Obj\vshell.o: ..\vshell\src\vshell_list.h
+..\Obj\vshell.o: ..\vshell\src\vshell_io.h
+..\Obj\vshell.o: ..\vshell\bsp\bsp.h
+..\Obj\vshell.o: ..\vshell\src\shell_config.h
+..\Obj\vshell.o: ..\IAP\iap.h
+..\Obj\vshell.o: ..\MDK\config.h
+..\Obj\vshell.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\vshell.o: F:\Keil4\ARM\RV31\INC\string.h

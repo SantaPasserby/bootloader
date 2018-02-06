@@ -1,0 +1,14 @@
+..\Obj\main.o: ..\User\main.c
+..\Obj\main.o: ..\Driver\bsp_systick.h
+..\Obj\main.o: ..\System\system_stm32f10x.h
+..\Obj\main.o: ..\System\stm32f10x.h
+..\Obj\main.o: ..\System\core_cm3.h
+..\Obj\main.o: F:\Keil4\ARM\RV31\INC\stdint.h
+..\Obj\main.o: ..\Driver\bsp_usart1.h
+..\Obj\main.o: F:\Keil4\ARM\RV31\INC\stdio.h
+..\Obj\main.o: ..\Driver\bsp_flash.h
+..\Obj\main.o: ..\MDK\config.h
+..\Obj\main.o: ..\vshell\src\vshell.h
+..\Obj\main.o: ..\vshell\interger.h
+..\Obj\main.o: ..\vshell\src\shell_config.h
+..\Obj\main.o: ..\IAP\iap.h
